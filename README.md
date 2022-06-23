@@ -25,5 +25,5 @@ GIVEN a webpage meets accessibility standards
 <li>THEN I find a concise, descriptive title</li>
 </ul>
 
-[Contribution guidelines for this project]
-<img src=./01-html-css-git-homeowrk-demo.png alt="homework">
+Contribution guidelines for this project
+<img src=./01-html-css-git-homework-demo.png alt="homework">
