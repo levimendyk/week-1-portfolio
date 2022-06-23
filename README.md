@@ -1,24 +1,29 @@
 # week-1-challenge
 
 ## User Story
+<br>
 
-[AS A marketing agency
+AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines]
 
 # Acceptance Criteria
 
-[GIVEN a webpage meets accessibility standards]
--WHEN I view the source code
--THEN I find semantic HTML elements
--WHEN I view the structure of the HTML elements
--THEN I find that the elements follow a logical structure independent of styling and positioning
--WHEN I view the icon and image elements
--THEN I find accessible alt attributes
--WHEN I view the heading attributes
--THEN they fall in sequential order
--WHEN I view the title element
--THEN I find a concise, descriptive title
+GIVEN a webpage meets accessibility standards
+<br>
+
+<ul>
+<li>WHEN I view the source code</li>
+<li>THEN I find semantic HTML elements</li>
+<li>WHEN I view the structure of the HTML elements</li>
+<li>THEN I find that the elements follow a logical structure independent of styling and positioning</li>
+<li>THEN I find accessible alt attributes</li>
+<li>WHEN I view the icon and image elements</li>
+<li>WHEN I view the heading attributes</li>
+<li>THEN they fall in sequential order</li>
+<li>WHEN I view the title element</li>
+<li>THEN I find a concise, descriptive title</li>
+</ul>
 
 [Contribution guidelines for this project]
-(./01-html-css-git-homework-demo.png)
+<img src=./01-html-css-git-homeowrk-demo.png alt="homework">
