@@ -27,3 +27,5 @@ GIVEN a webpage meets accessibility standards
 
 Contribution guidelines for this project
 <img src=./01-html-css-git-homework-demo.png alt="homework">
+
+[Deployed Site](https://levimendyk.github.io/week-1-portfolio/)
